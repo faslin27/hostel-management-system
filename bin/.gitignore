@@ -1,0 +1,11 @@
+    # Ignore compiled classes
+    *.class
+
+    # Ignore IntelliJ IDEA project files (if not already in template)
+    .idea/
+    *.iml
+
+    # Ignore build artifacts
+    target/
+    build/
+/target/
